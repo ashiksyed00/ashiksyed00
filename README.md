@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashiksyed00
 - 👀 I’m interested in Data science and Machine learning 
-- 🌱 I’m currently learning Data analytics
+- 🌱 I’m currently working on Data analytics
 - 💞️ I’m looking to collaborate on data science 
 - 📫 How to reach me syedashik61@gmail.com
 
